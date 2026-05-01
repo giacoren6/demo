@@ -132,3 +132,16 @@ elif operator=='/':
     print(number1/number2)
 else:
     print('invalid operator')
+
+name = input("enter your name:")
+age = int(input("enter your age:"))
+
+print("Welcome " + name)
+print("you will be " + str(age + 1) + " next year")
+
+
+
+
+
+
+
